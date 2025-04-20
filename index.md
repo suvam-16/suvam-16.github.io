@@ -59,7 +59,7 @@ Click below to download the original Event Tracking project ZIP:
 ---
 ## 📂 Enhancement One: Please review the link for the enhancement one narrative with details and the code files with improvements👇:
 
-[Download Enhancement 1 Narrative (DOCX)](En1%20narrative.docx)
+[Download Enhancement 1 Narrative (En1narrative.docx)](En1%20narrative.docx)
 
 [Download Milestone 1 ZIP (EventTracking_M1.zip)](EventTracking_M1.zip)
 
@@ -67,7 +67,7 @@ Click below to download the original Event Tracking project ZIP:
 
 ## 📂 Enhancement Two: Please review the link for the enhancement two narrative with details and the code files with improvements👇:
 
-[Download Enhancement 2 Narrative (EN2 Narrative.docx)](En2%20narrative.docx)
+[Download Enhancement 2 Narrative (En2narrative.docx)](En2%20narrative.docx)
 
 [Download Milestone 2 ZIP (EventTracking_M2.zip)](EventTracking_M2.zip)
 
@@ -75,7 +75,7 @@ Click below to download the original Event Tracking project ZIP:
 
 ## 📂 Enhancement Three: Please review the link for the enhancement three narrative with details and the code files with improvements👇:
 
-[Download Enhancement 3 Narrative (EN3 Narrative.docx)](EN3%20narrative.docx)
+[Download Enhancement 3 Narrative (En3narrative.docx)](EN3%20narrative.docx)
 
 [Download Milestone 3 ZIP (EventTracking_M3.zip)](EventTracking_M3.zip)
 
