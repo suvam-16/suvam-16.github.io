@@ -73,7 +73,14 @@ Click below to download the original Event Tracking project ZIP:
 
 ---
 
+## 📂 Enhancement Three: Please review the link for the enhancement three narrative with details and the code files with improvements👇:
 
+[Download Enhancement 3 Narrative (EN3 Narrative.docx)](EN3%20narrative.docx)
+
+[Download Milestone 3 ZIP (EventTracking_M3.zip)](EventTracking_M3.zip)
+
+---
+---
 
 
 
