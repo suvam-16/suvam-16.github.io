@@ -1,5 +1,5 @@
 ---
-title: Welcome to My Site
+title: Welcome to My GitHub Pages
 layout: default
 ---
 
@@ -58,6 +58,14 @@ Click below to download the original Event Tracking project ZIP:
 
 ---
 ## 📂 Enhancement One: Please review the link for the enhancement one narrative with details and the code files with improvements👇:
+
+###### The following enhancements were made for this artifact:
+> 1.	Add background images to modernize the look of the app.
+> 2.	Improve button styles for better aesthetic.
+> 3.	Add an event description field so users can add event details as well.
+> 4.	Update database schema to include this new field.
+> 5.	Update animation effects for event deletion to add more visually appealing animations.
+
 
 [Download Enhancement 1 Narrative (En1narrative.docx)](En1%20narrative.docx)
 
