@@ -75,6 +75,12 @@ Click below to download the original Event Tracking project ZIP:
 
 ## 📂 Enhancement Two: Please review the link for the enhancement two narrative with details and the code files with improvements👇:
 
+###### The following enhancements were made for this artifact:
+> 1.	Implement sorting using SQLite’s ORDER BY to prioritize events based on the preference of the user (For example: sorting my date, sorting by name, importance etc.)
+> 2.	Implement Binary Search to implement faster event lookup based on user input.
+> 3.	Implement the search bar in the UI to support the search feature.
+
+
 [Download Enhancement 2 Narrative (En2narrative.docx)](En2%20narrative.docx)
 
 [Download Milestone 2 ZIP (EventTracking_M2.zip)](EventTracking_M2.zip)
@@ -82,6 +88,14 @@ Click below to download the original Event Tracking project ZIP:
 ---
 
 ## 📂 Enhancement Three: Please review the link for the enhancement three narrative with details and the code files with improvements👇:
+
+###### The following enhancements were made for this artifact:
+> 1.	Create an events table in MySQL to store event details.
+> 2.	Write a backend API to handle event retrieval, insertion, and deletion using MySQL.
+> 3.	Replace SQLite queries with HTTP requests to interact with MySQL through the API.
+> 4.	Ensure event data is correctly stored, retrieved, and displayed in the app.
+
+### You can find the screenshots of fully fucntional Event Tracking App in the Narrative below: 
 
 [Download Enhancement 3 Narrative (En3narrative.docx)](EN3%20narrative.docx)
 
