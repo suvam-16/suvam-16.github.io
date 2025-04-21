@@ -95,7 +95,7 @@ Click below to download the original Event Tracking project ZIP:
 > 3.	Replace SQLite queries with HTTP requests to interact with MySQL through the API.
 > 4.	Ensure event data is correctly stored, retrieved, and displayed in the app.
 
-### You can find the screenshots of fully fucntional Event Tracking App in the Narrative below: 
+### You can find the screenshots of fully functional Event Tracking App in the Narrative below: 
 
 [Download Enhancement 3 Narrative (En3narrative.docx)](EN3%20narrative.docx)
 
