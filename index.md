@@ -2,7 +2,10 @@
 title: Welcome to My GitHub Pages
 layout: default
 ---
-
+<p align="center">
+  <a href="https://github.com/suvam-16" target="_blank"> GitHub</a> • 
+  <a href="https://www.linkedin.com/in/suvam-kharel-a6757b191/" target="_blank"> LinkedIn</a>
+</p>
 
 Hi, I'm Suvam
 
